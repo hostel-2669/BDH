@@ -1,9 +1,8 @@
-altair
-pandas
-streamlit
-torch
-torchvision
-numpy
-matplotlib
-scikit-learn
-umap-learn
+streamlit>=1.35.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.2.0
+umap-learn>=0.5.3
+altair>=5.0.0
