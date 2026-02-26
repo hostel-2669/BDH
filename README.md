@@ -66,6 +66,8 @@ BDH avoids catastrophic collapse but exhibits smooth exponential decay due to fi
 ## 5️ Harmful Prompt Entropy Analysis
 
 <img width="739" height="515" alt="entropy_vs_top_k_mass" src="https://github.com/user-attachments/assets/ae9c4eae-99bb-4139-9689-e6d16b88f085" />
+<img width="737" height="541" alt="transformer_entropy_vs_top_k_mass" src="https://github.com/user-attachments/assets/93467b03-ab07-43a7-864f-33543292f8a0" />
+
 
 Transformer activations remain diffuse with high entropy.  
 BDH shows entropy drop and localized sparse spikes, enabling representation-level safety monitoring.
