@@ -90,8 +90,8 @@ BDH shows entropy drop and localized sparse spikes, enabling representation-leve
 ##  How to Run Locally
 
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/hostel-2669/BDH.git
+cd BDH
 pip install -r requirements.txt
 python activation_analysis.py
 python hebbian_experiment.py
@@ -103,7 +103,7 @@ streamlit run app.py
 
 ##  Hosted Demo
 
-👉 **[Insert Hosted Demo Link Here]**
+ 
 
 Includes:
 - Cross-lingual neuron overlap
@@ -157,6 +157,8 @@ Includes:
 
 Structured sparsity, localized state, and Hebbian reinforcement demonstrate a viable path toward post-Transformer architectures that learn, remember, and explain.
 
-## https://drive.google.com/file/d/1G7VxQ48DH5DuuijWRSYAyLG1L92iQiRo/view?usp=drivesdk
+## Drive link for Report
+https://drive.google.com/file/d/1G7VxQ48DH5DuuijWRSYAyLG1L92iQiRo/view?usp=drivesdk
 
-## https://youtu.be/Z51rWGcgpCA
+## Youtube Video link
+https://youtu.be/Z51rWGcgpCA
