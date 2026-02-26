@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+umap-learn
