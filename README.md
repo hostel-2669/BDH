@@ -92,18 +92,63 @@ BDH shows entropy drop and localized sparse spikes, enabling representation-leve
 ```bash
 git clone https://github.com/hostel-2669/BDH.git
 cd BDH
-pip install -r requirements.txt
-python activation_analysis.py
-python hebbian_experiment.py
-python memory_test.py
-streamlit run app.py
 ```
-
+```bash
+cd Hebbian_Learning_and_Synapse_Strengthening
+python BDH_Hebbian_Learning/BDH_inference_learning_experiment.py
+python transformer_model_hebbian_learning/BDH_vs_transformer.py
+python transformer_model_hebbian_learning/Transformer_Synapse_training.py
+python transformer_model_hebbian_learning/final_synapse_strengthening.py
+```
+```bash
+cd ..
+```
+```bash
+cd Image_Sparsity
+python BDH_image_sparsity/build_atlas.py
+python BDH_image_sparsity/cluster_neurons.py
+python BDH_image_sparsity/generate_data.py
+python BDH_image_sparsity/inspect_cluster.py
+python BDH_image_sparsity/log_activations.py
+python BDH_image_sparsity/model.py
+python Transformer_image_sparsity/*.py
+```
+```bash
+cd ..
+```
+```bash
+cd Text_Based_Sparsity
+python BDH_Text_based_Sparsity/*.py
+``
+``bash
+cd ..
+``
+``bash
+cd Harmful_prompts
+python BDH_Harmful_Prompts/*.py
+python Transformer_Model_Harmful_prompts/plot.py
+``
+``bash
+cd ..
+``
 ---
+## Instructions for running .ipynb files
+Install jupyter lab in terminal
+or
+open code in vscode editor
+run each cell sequentially
 
 ##  Hosted Demo
 
- 
+ HOSTED DEMO LINK:-
+MONOSEMANTICITY:- BDH-MONOSEMANTICITY
+MEMORY RETENTION:- MEMORY-RETENTION
+INFERENCE-TIME-LEARNING:-INFERENCE-TIME-LEARNING
+IMAGE NEURON SPARSITY:-NEURON SPARSITY
+TEXT-NEURON-SPARSITY:- 
+HARMFUL PROMPTS:-HARMFUL-PROMPTS
++
+
 
 Includes:
 - Cross-lingual neuron overlap
