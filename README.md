@@ -119,18 +119,18 @@ cd ..
 ```bash
 cd Text_Based_Sparsity
 python BDH_Text_based_Sparsity/*.py
-``
-``bash
+```
+```bash
 cd ..
-``
-``bash
+```
+```bash
 cd Harmful_prompts
 python BDH_Harmful_Prompts/*.py
 python Transformer_Model_Harmful_prompts/plot.py
-``
-``bash
+```
+```bash
 cd ..
-``
+```
 ---
 
 ## Instructions for running .ipynb files
