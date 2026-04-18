@@ -12,7 +12,7 @@ We built a full experimental framework including sparse activation atlases, cros
 
 ---
 
-##  Key Insights (BDH vs Transformer)
+##  Key Insights  (BDH vs Transformer)
 
 ---
 
