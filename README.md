@@ -8,7 +8,7 @@
 
 We designed and evaluated a **Bi-Directional Hybrid (BDH)** architecture as a structured sparse alternative to dense Transformer models. BDH activates only **2.5–5% of neurons per input**, maintains a **constant-size memory state (O(1))**, and enables **inference-time Hebbian synapse strengthening** without backpropagation.
 
-We built a full experimental framework including sparse activation atlases, cross-lingual monosemantic probing, Hebbian learning analysis, long-context memory stress testing, and harmful prompt entropy evaluation to rigorously compare BDH against Transformer baselines.
+We built a full experimental framework including sparse activation atlases, cross-lingual monosemantic probing, Hebbian learning analysis, long-context memory stress testing, and harmful prompt entropy evaluation to rigorously compare BDH against the Transformer baselines.
 
 ---
 
